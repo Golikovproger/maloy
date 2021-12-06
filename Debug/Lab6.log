@@ -1,0 +1,4 @@
+﻿  Practical_work_6.cpp
+C:\Users\Александр\source\repos\Lab6\Lab6\Practical_work_6.cpp(94,14): warning C4099: Task: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\Александр\source\repos\Lab6\Lab6\Task.h(14): message : см. объявление "Task"
+  Lab6.vcxproj -> C:\Users\Александр\source\repos\Lab6\Debug\Lab6.exe
